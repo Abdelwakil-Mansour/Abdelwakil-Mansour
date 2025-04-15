@@ -1,5 +1,4 @@
 👋 Hi, I’m Abdelwakil Mansour
-- 👀 About Me
   I am a nanoengineering student and aspiring software developer with a strong passion for AI, embedded systems, photonics, electronics, machine learning, and systems &     low-level software engineering.
 
   I am currently learning C, C++, Python, and Bash/Shell scripting, and I frequently work with Linux, Git, and VS Code. I am always open to collaborations and open-source  contributions, eager to apply my skills to real-world challenges in both software development and nanotechnology.
