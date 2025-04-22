@@ -25,7 +25,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+<!--![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white)-->
 
 ---
 
@@ -63,6 +63,5 @@
 
 > *“Keep building. Keep learning. Keep growing.”* 🚀
 
-Email: s-abdelwakil.abdelwakil@zewailcity.edu.eg
-LinkedIn: linkedin.com/in/abdelwakil-mansour
+
 
