@@ -31,11 +31,11 @@
 
 ### 🚀 Projects
 
-#### 🏦 ATM System (C++ / Qt + QML)
-> ATM simulation with Admin & Customer modes, password security, and clean UI animations  
-[🔗 View on GitHub](https://github.com/yourusername/atm-system)
+#### 🏦 ATM System (C++)
+> ATM simulation with Admin & Customer modes, password security  
+[🔗 View on GitHub](https://github.com/Abdelwakil-Mansour/ATM-System)
 
-#### 🐚 Bash Automation Tools
+<!--#### 🐚 Bash Automation Tools
 > Scripts for backup, logs, spinners, and file safety — perfect for Linux users  
 [🔗 View on GitHub](https://github.com/yourusername/bash-scripts)
 
@@ -43,7 +43,8 @@
 > Interactive terminal-based self-introduction launcher with menus, ASCII UI & links  
 [🔗 View on GitHub](https://github.com/yourusername/portfolio-cli)
 
----
+--- 
+-
 
 <!--!### 📈 GitHub Stats
 
