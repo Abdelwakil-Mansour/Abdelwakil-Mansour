@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdelwakil-mansour/abdelwakil-mansour/main/banner.png" alt="Banner">
+  <img src="https://raw.githubusercontent.com/abdelwakil-mansour/abdelwakil-mansour/main/photo.jpg" alt="Banner">
 </p>
 
 <h1 align="center">Hey 👋, I'm Abdelwakil Mansour</h1>
@@ -45,13 +45,13 @@
 
 ---
 
-### 📈 GitHub Stats
+<!--!### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180" />
 </p>
-
+-->
 ---
 
 ### 🌐 Let's Connect!
