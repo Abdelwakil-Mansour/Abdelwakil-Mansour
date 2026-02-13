@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/abdelwakil-mansour/abdelwakil-mansour/main/photo.jpg" alt="Banner">
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdelwakil Mansour</h1>
+<h1 align="center">Hi 👋, I'm Abdelwakil</h1>
 
 <p align="center">
   🚀 Nanotech & Nanoelectronics Student | 🔧 C++ • Python • Bash • MySQL • Excel | 💡 AI & Data Intern | 💻 Linux Fan | 📊 Tech & Education Enthusiast
