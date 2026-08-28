@@ -5,26 +5,26 @@
 <h1 align="center">Hi 👋, I'm Abdelwakil</h1>
 
 <p align="center">
-  🚀 Nanotech & Nanoelectronics Student | 🔧 C++ • Python • Bash • MySQL • Excel | 💡 AI & Data Intern | 💻 Linux Fan | 📊 Tech & Education Enthusiast
+   Nanotech & Nanoelectronics Student | 🔧 C++ • Python • Bash • MySQL • Excel |  AI & Data Intern |  Linux Fan |  Tech & Education Enthusiast
 </p>
 
 ---
 
-### 🧠 About Me
-- 🎓 Undergrad @ **Zewail City of Science and Technology**
-- 🌱 Currently exploring:
+###  About Me
+-  Undergrad @ **Zewail City of Science and Technology**
+-  Currently exploring:
   <!--!- **Embedded Systems**-->
   - **Data Analysis & Visualization**
   - **Machine Learning (Elevvo Internship)**
-- 🔍 Learning to use tools like **Excel**, **Power BI**, **SQL**, and **TensorFlow**
-- 📊 Intern @ **Elevvo (ML)** and **Data Summer Camp**
-- 💬 I love tech talks about open-source, automation, and education
-- 🤝 Actively volunteering at **EYE NGO** (PR)  
-- ⚙️ Always building, breaking, and learning something new
+-  Learning to use tools like **Excel**, **Power BI**, **SQL**, and **TensorFlow**
+-  Intern @ **Elevvo (ML)** and **Data Summer Camp**
+-  I love tech talks about open-source, automation, and education
+-  Actively volunteering at **EYE NGO** (PR)  
+-  Always building, breaking, and learning something new
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 #### Programming & Scripting  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -41,13 +41,13 @@
 
 ---
 
-<!--!### 🚀 Projects
+<!--!###  Projects
 
-#### 🏦 ATM System (C++)
+####  ATM System (C++)
 > Simulation of banking operations (Admin + Customer modes), secure login, and object-oriented structure.  
 [🔗 GitHub](https://github.com/Abdelwakil-Mansour/ATM-System)
 
-#### 📊 Data Summer Camp Final Project
+####  Data Summer Camp Final Project
 > Business analysis dashboard using Power BI, SQL & Excel (in progress)  
 [🔗 Will be shared soon]
 
@@ -57,24 +57,24 @@
 
 ---
 -->
-### 📜 Certifications
+###  Certifications
 
-- ✅ **AI Fundamentals** – *DataCamp*
-- ✅ **Intro to IoT** – *Cisco*
-- ✅ **Computer Hardware Basics** – *Cisco*
-- ✅ **Nanotechnology: A Maker's Course** – *Duke University*
-- ✅ **McKinsey Forward Program** – *Soft Skills & Career Development*
+-  **AI Fundamentals** – *DataCamp*
+-  **Intro to IoT** – *Cisco*
+-  **Computer Hardware Basics** – *Cisco*
+-  **Nanotechnology: A Maker's Course** – *Duke University*
+-  **McKinsey Forward Program** – *Soft Skills & Career Development*
 
 ---
 
-<!--!### 📈 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdelwakil-mansour&show_icons=true&theme=radical" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwakil-mansour&layout=compact&theme=radical" height="180" />
 </p>
 
----  -->
+
 
 ### 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelwakil-mansour)  
