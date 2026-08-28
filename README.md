@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Abdelwakil</h1>
 
 <p align="center">
-   Nanotech & Nanoelectronics Student | 🔧 C++ • Python • Bash • MySQL • Excel |  AI & Data Intern |  Linux Fan |  Tech & Education Enthusiast
+   Nanotech & Nanoelectronics Student |  C++ • Python • Bash • MySQL • Excel |  AI & Data Intern |  Linux Fan |  Tech & Education Enthusiast
 </p>
 
 ---
@@ -67,12 +67,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelwakil-mansour&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelwakil-mansour&layout=compact&theme=radical" height="180" />
-</p>
 
 
 
